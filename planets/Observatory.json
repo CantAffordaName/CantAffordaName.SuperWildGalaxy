@@ -1,0 +1,196 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"name" : "Comet Observatory",
+	"starSystem" : "CantAffordaName.SuperWildSystem",
+	"Spawn" : 
+	{
+		"playerSpawnPoint" :
+		{"x": -39.58819, "y": -2.645, "z": -53.03327},
+		"playerSpawnRotation" :
+		{"x": 0.0, "y": 36.5, "z": 0.0},
+		"shipSpawnPoint" :
+		{"x": -72.63705, "y": -5, "z": 35.90202},
+		"shipSpawnRotation" :
+		{"x": 0.0, "y": 138.4012, "z": 0.0},
+		"startWithSuit" : false
+	},
+	"Base" :
+	{
+		"hasMapMarker" : true,
+		"AmbientLight" : 3.0,
+		"groundSize" : 0.0,
+		"invulnerableToSun" : true,
+		"showMinimap" : false,
+		"surfaceGravity" : 0.0,
+		"surfaceSize" : 150.0
+	},
+	"Orbit" :
+	{
+		"primaryBody" : "Comet Sun",
+		"alignmentAxis" :
+		{
+			"x": -1.0,
+			"y": 0.0,
+			"z": 0.0			
+		},
+		"showOrbitLine": false,
+		"isStatic": true,
+		"siderealPeriod": -1.0,
+		"semiMajorAxis": 6000.0,
+		"trueAnomaly": 0.0
+	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"position": {
+					"x": 0.0,
+					"y": 0.0,
+					"z": 0.0
+				},
+				"radius": 150,
+				"audio": "planets/assetbundle/CometObservatoryV3.wav",
+				"track": "music",
+				"loop": true,
+				"volume": 0.5
+			}
+		]
+	},
+	"Atmosphere" : {
+		"hasOxygen": true,
+		"size": 150.0
+	},
+	"Lava": {
+		"size": 5.0,
+		"tint": {
+			"r": 0,
+			"g": 255,
+			"b": 251,
+			"a": 0
+		}
+	},
+	"Props" :
+	{
+		"details" :
+		[
+			{
+				"assetBundle": "planets/assetbundle/superwildgalaxy",
+				"path": "Assets/SuperWildGalaxy/Prefabs/CometObservatory.prefab",
+				"position": {"x": 0.0, "y": 0.0, "z": 0.0},
+				"rotation": {"x": 0.0, "y": 0.0, "z": 0.0},
+				"alignToNormal" : true,
+				"scale" : 1,
+				"keepLoaded" : true
+			},
+			{
+				"path": "Anglerfish_Body/Beast_Anglerfish",
+				"position": {"x": -12.96028, "y": -1.585, "z": -17.07049},
+				"rotation": {"x":0, "y":219.5, "z":0},
+				"scale" : 0.02,
+				"removeChildren" :[
+					"B_angler_root/B_angler_body01/B_angler_body02/B_angler_antenna01/B_angler_antenna02/B_angler_antenna03/B_angler_antenna04/B_angler_antenna05/B_angler_antenna06/B_angler_antenna07/B_angler_antenna08/B_angler_antenna09/B_angler_antenna10/B_angler_antenna11/B_angler_antenna12_end"
+				]
+			},
+			{
+				"path" : "Anglerfish_Body/Beast_Anglerfish_Collision", 
+				"position": {"x": -12.96028, "y": -1.585, "z": -17.07049},
+				"rotation": {"x":0, "y":219.5, "z":0},
+				"scale" : 0.02
+			},
+		],
+		"dialogue": [
+			{
+				"lookAtRadius": 3.0,
+				"position": {"x": -12.96028, "y": -1.585, "z": -17.07049},
+				"radius": 2.0,
+				"xmlFile": "planets/Dialogue/PrincessErnesto.xml"
+			}
+		],
+		"singularities" :
+		[
+			{
+				"uniqueID": "warpGarageBlack01",
+				"pairedSingularity": "warpGarageWhite01",
+				"size": 0,
+				"position": {"x": -64.68993, "y": -8.2762, "z": 39.46687},
+				"type": "blackHole"
+			},
+			{
+				"uniqueID": "warpGarageWhite01",
+				"pairedSingularity": "warpGarageBlack01",
+				"size": 0,
+				"position": {"x": -11.23328, "y": 53.33, "z": 0.01817966},
+				"type": "whiteHole"
+			},
+			{
+				"uniqueID": "warpFountainBlack01",
+				"pairedSingularity": "warpFountainWhite01",
+				"size": 0,
+				"position": {"x": 7.513836, "y": -10.1, "z": 48.27251},
+				"type": "blackHole"
+			},
+			{
+				"uniqueID": "warpFountainWhite01",
+				"pairedSingularity": "warpFountainBlack01",
+				"size": 0,
+				"position": {"x": 16.54115, "y": -2.453666, "z": 62.93303},
+				"type": "whiteHole"
+			},
+			{
+				"uniqueID": "warpKitchenBlack01",
+				"pairedSingularity": "warpKitchenWhite01",
+				"size": 0,
+				"position": {"x": 47.30466, "y": 6.824864, "z": -15.75742},
+				"type": "blackHole"
+			},
+			{
+				"uniqueID": "warpKitchenWhite01",
+				"pairedSingularity": "warpKitchenBlack01",
+				"size": 0,
+				"position": {"x": 21.46565, "y": 28.42998, "z": 8.466728},
+				"type": "whiteHole"
+			},
+			{
+				"uniqueID": "warpGatewayBlack01",
+				"pairedSingularity": "warpGatewayWhite01",
+				"size": 0,
+				"position": {"x": 11.67107, "y": 34.625, "z": -12.40056},
+				"type": "blackHole"
+			},
+			{
+				"uniqueID": "warpGatewayWhite01",
+				"pairedSingularity": "warpGatewayBlack01",
+				"size": 0,
+				"position": {"x": 59.96565, "y": 24.58567, "z": 49.01839},
+				"type": "whiteHole"
+			},
+			{
+				"uniqueID": "warpTippyTopBlack01",
+				"pairedSingularity": "warpTippyTopWhite01",
+				"size": 0,
+				"position": {"x": 55.19838, "y": 25.36346, "z": 61.77496},
+				"type": "blackHole"
+			},
+			{
+				"uniqueID": "warpTippyTopWhite01",
+				"pairedSingularity": "warpTippyTopBlack01",
+				"size": 0,
+				"position": {"x": 11.66504, "y": 52.58501, "z": 0.03360653},
+				"type": "whiteHole"
+			},
+			{
+				"uniqueID": "warpLibraryBlack01",
+				"pairedSingularity": "warpLibraryWhite01",
+				"size": 0,
+				"position": {"x": 5.771801, "y": -1.522998, "z": -44.4923},
+				"type": "blackHole"
+			},
+			{
+				"uniqueID": "warpLibraryWhite01",
+				"pairedSingularity": "warpLibraryBlack01",
+				"size": 0,
+				"position": {"x": -20.22621, "y": 28.09513, "z": -16.26368},
+				"type": "whiteHole"
+			}
+		]
+	}
+}

@@ -1,0 +1,238 @@
+ManifestFileVersion: 0
+CRC: 2765161636
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7de47ee5cd4b0355fcf6c1c2c3ef168
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cdd24e5da5794983482394fe5f185af7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 44e6c85460fc91746b86ccb3c4135daf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c2d328d259791744bb8539650a9c619, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61b00a8e76a237e429174e8bc253901f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SuperWildGalaxy/Models/Observatory/astrostarplatekitchen.dae
+- Assets/SuperWildGalaxy/Models/Observatory/astrostarplatetower.dae
+- Assets/SuperWildGalaxy/Models/Observatory/astrobasekitchen.dae
+- Assets/SuperWildGalaxy/Models/Observatory/astrostarplatemachine.dae
+- Assets/SuperWildGalaxy/Materials/BaseCenter_graymarufloor.mat
+- Assets/SuperWildGalaxy/Materials/tilehousetop.png
+- Assets/SuperWildGalaxy/Materials/Scroll.shader
+- Assets/SuperWildGalaxy/Models/Observatory/astrobaseb.dae
+- Assets/SuperWildGalaxy/Materials/Mat_PlatformOrange.mat
+- Assets/SuperWildGalaxy/Models/Observatory/astrodomeentranceobservatory.dae
+- Assets/SuperWildGalaxy/Materials/golddoorwakuMM.png
+- Assets/SuperWildGalaxy/Materials/mablesidelozet_64.png
+- Assets/SuperWildGalaxy/Materials/redcarpet00.png
+- Assets/SuperWildGalaxy/Materials/bedcloth00.png
+- Assets/SuperWildGalaxy/Models/Objects/warpSS00.png
+- Assets/SuperWildGalaxy/Materials/purplecarpet00.png
+- Assets/SuperWildGalaxy/Materials/cloth04SM.png
+- Assets/SuperWildGalaxy/Materials/IndBendSmple.png
+- Assets/SuperWildGalaxy/Materials/BellMetalBase.png
+- Assets/SuperWildGalaxy/Materials/boartwood.png
+- Assets/SuperWildGalaxy/Materials/Mat_FlowerWhite.mat
+- Assets/SuperWildGalaxy/Models/Objects/CountNumber3.png
+- Assets/SuperWildGalaxy/Models/Objects/warpSS05.png
+- Assets/SuperWildGalaxy/Models/Objects/astromapboard.dae
+- Assets/SuperWildGalaxy/Materials/purplehanatoha64.png
+- Assets/SuperWildGalaxy/Materials/Mat_Gold.mat
+- Assets/SuperWildGalaxy/Models/Observatory/astrochildroom.dae
+- Assets/SuperWildGalaxy/Materials/curtain00SM.png
+- Assets/SuperWildGalaxy/Materials/yellowfortilemip.png
+- Assets/SuperWildGalaxy/Models/Objects/astrorotatestepb.dae
+- Assets/SuperWildGalaxy/Materials/DisappearDoor.png
+- Assets/SuperWildGalaxy/Materials/bookshelf00.png
+- Assets/SuperWildGalaxy/Models/Objects/BellMetalBase02.png
+- Assets/SuperWildGalaxy/Materials/lozettacartain.png
+- Assets/SuperWildGalaxy/Materials/IP2_glow1_i.png
+- Assets/SuperWildGalaxy/Materials/marbletileKitchen.png
+- Assets/SuperWildGalaxy/Materials/golddoorwaku.png
+- Assets/SuperWildGalaxy/Models/Objects/astrocore.dae
+- Assets/SuperWildGalaxy/Materials/Mat_Screen.mat
+- Assets/SuperWildGalaxy/Materials/LavaGaraxyEnvMap.png
+- Assets/SuperWildGalaxy/Materials/Mat_GarageRed.mat
+- Assets/SuperWildGalaxy/Materials/EdenWoodPanel.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrobasecentera.dae
+- Assets/SuperWildGalaxy/Materials/mablewalllozeta00.png
+- Assets/SuperWildGalaxy/Materials/whitepla.png
+- Assets/SuperWildGalaxy/Materials/tilehouseline.png
+- Assets/SuperWildGalaxy/Materials/whitehanatoha64.png
+- Assets/SuperWildGalaxy/Models/Objects/coreSS00.png
+- Assets/SuperWildGalaxy/Materials/BaseCenterTopMagentaMetal.mat
+- Assets/SuperWildGalaxy/Models/Objects/warpSS04.png
+- Assets/SuperWildGalaxy/Materials/WaterWave.png
+- Assets/SuperWildGalaxy/Materials/Mat_metalamimip.mat
+- Assets/SuperWildGalaxy/Materials/metalamimip.png
+- Assets/SuperWildGalaxy/Materials/IP2V_hebienv2.png
+- Assets/SuperWildGalaxy/Models/Objects/coreMM03.png
+- Assets/SuperWildGalaxy/Materials/woodpanel03_128.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrodomeentrancebedroom.dae
+- Assets/SuperWildGalaxy/Materials/HighLightSample.png
+- Assets/SuperWildGalaxy/Materials/Mat_WaterWave.mat
+- Assets/SuperWildGalaxy/Materials/LibraryGate00.png
+- Assets/SuperWildGalaxy/Materials/golddoorwakuMM2.png
+- Assets/SuperWildGalaxy/Materials/mokume02.png
+- Assets/SuperWildGalaxy/Materials/sibatutikabe.png
+- Assets/SuperWildGalaxy/Models/Objects/coreSS02.png
+- Assets/SuperWildGalaxy/Models/Objects/HighLightSample.png
+- Assets/SuperWildGalaxy/Materials/yellowhanatoha64.png
+- Assets/SuperWildGalaxy/Materials/IP2V_sanenv1.png
+- Assets/SuperWildGalaxy/Materials/Mat_bedroomrailing.mat
+- Assets/SuperWildGalaxy/Materials/cloth04_128.png
+- Assets/SuperWildGalaxy/Materials/Mat_Cloth1.mat
+- Assets/SuperWildGalaxy/Materials/BaseCenterTopPink.mat
+- Assets/SuperWildGalaxy/Materials/purplecarpet02MS.png
+- Assets/SuperWildGalaxy/Materials/curtain00.png
+- Assets/SuperWildGalaxy/Materials/Gaito01.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrobasec.dae
+- Assets/SuperWildGalaxy/Materials/Mat_PowerlinePurple.mat
+- Assets/SuperWildGalaxy/Materials/Colorfloor02_128_mip.png
+- Assets/SuperWildGalaxy/Materials/Mat_PowerlineBlue.mat
+- Assets/SuperWildGalaxy/Materials/goldchainmaruMM.png
+- Assets/SuperWildGalaxy/Materials/woodpanel04_128.png
+- Assets/SuperWildGalaxy/Materials/BaseCenterTop.mat
+- Assets/SuperWildGalaxy/Materials/graymarufloormip.png
+- Assets/SuperWildGalaxy/Models/Objects/astrodecoratepartsa.dae
+- Assets/SuperWildGalaxy/Materials/whiteplaMS.png
+- Assets/SuperWildGalaxy/Models/Objects/warpSS06.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrobasea.dae
+- Assets/SuperWildGalaxy/Materials/BaseCenter_BlueGrayMetal.mat
+- Assets/SuperWildGalaxy/Materials/Mat_PlatformBlue.mat
+- Assets/SuperWildGalaxy/Materials/LightTest.png
+- Assets/SuperWildGalaxy/Materials/QFGP_b_mip.png
+- Assets/SuperWildGalaxy/Materials/SolidPalm.png
+- Assets/SuperWildGalaxy/Prefabs/CometObservatory.prefab
+- Assets/SuperWildGalaxy/Materials/pinkhanatoha64.png
+- Assets/SuperWildGalaxy/Materials/Mat_bedcloth.mat
+- Assets/SuperWildGalaxy/Models/Objects/astrodecoratepartsgeara.dae
+- Assets/SuperWildGalaxy/Models/Objects/mapbSS01.png
+- Assets/SuperWildGalaxy/Materials/Mat_Fall.mat
+- Assets/SuperWildGalaxy/Materials/closetMS.png
+- Assets/SuperWildGalaxy/Materials/cloth04.png
+- Assets/SuperWildGalaxy/Materials/Mat_GarageBlue.mat
+- Assets/SuperWildGalaxy/Models/Objects/warppod.dae
+- Assets/SuperWildGalaxy/Materials/Gaito01MM.png
+- Assets/SuperWildGalaxy/Models/Objects/HighLight00.png
+- Assets/SuperWildGalaxy/Models/Objects/mapbSS00.png
+- Assets/SuperWildGalaxy/Materials/Telescope.png
+- Assets/SuperWildGalaxy/Materials/Mat_lozettaCurtain.mat
+- Assets/SuperWildGalaxy/Materials/mado.png
+- Assets/SuperWildGalaxy/Materials/BaseCenterTopLavander.mat
+- Assets/SuperWildGalaxy/Materials/Mat_Ip2_glow1_i.mat
+- Assets/SuperWildGalaxy/Materials/golddoorwaku2.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrostarplateobservatory.dae
+- Assets/SuperWildGalaxy/Models/Observatory/astrolibrary.dae
+- Assets/SuperWildGalaxy/Materials/PlateMetalBase_64.png
+- Assets/SuperWildGalaxy/Materials/Mat_OverlayPurple.mat
+- Assets/SuperWildGalaxy/Materials/mablewalllozeta.png
+- Assets/SuperWildGalaxy/Materials/Mat_goldchain.mat
+- Assets/SuperWildGalaxy/Materials/starpole00.png
+- Assets/SuperWildGalaxy/Materials/WaterIndirect.png
+- Assets/SuperWildGalaxy/Materials/BaseCenterTopMagenta.mat
+- Assets/SuperWildGalaxy/Materials/Mat_FlowerYellow.mat
+- Assets/SuperWildGalaxy/Models/Observatory/astrodomeentrancewell.dae
+- Assets/SuperWildGalaxy/Materials/graymarufloormipMS.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrobasecentertop.dae
+- Assets/SuperWildGalaxy/Materials/QFGP_a2.png
+- Assets/SuperWildGalaxy/Materials/BellMetalBase02.png
+- Assets/SuperWildGalaxy/Materials/maruigrassmip.png
+- Assets/SuperWildGalaxy/Materials/Yane00.png
+- Assets/SuperWildGalaxy/Materials/Gaito01MS.png
+- Assets/SuperWildGalaxy/Models/Objects/Mat_goldami01.mat
+- Assets/SuperWildGalaxy/Materials/Fall.png
+- Assets/SuperWildGalaxy/Materials/redrengamip.png
+- Assets/SuperWildGalaxy/Materials/golddoorwaku_128.png
+- Assets/SuperWildGalaxy/Materials/Mat_PowerlinePink.mat
+- Assets/SuperWildGalaxy/Materials/goldchainmaru.png
+- Assets/SuperWildGalaxy/Materials/Mat_Cloth2.mat
+- Assets/SuperWildGalaxy/Materials/QFGP_a2_64.png
+- Assets/SuperWildGalaxy/Models/Objects/warpSS01.png
+- Assets/SuperWildGalaxy/Materials/BaseCenterTopBlue.mat
+- Assets/SuperWildGalaxy/Models/Observatory/astrobasecenterb.dae
+- Assets/SuperWildGalaxy/Prefabs/RotatingPlatformB.prefab
+- Assets/SuperWildGalaxy/Materials/RailBlockBig_Stone.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrostarplatewell.dae
+- Assets/SuperWildGalaxy/Materials/LibraryGate00MS.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrodomeentrancetower.dae
+- Assets/SuperWildGalaxy/Materials/bulefortilemip.png
+- Assets/SuperWildGalaxy/Materials/squeartilemip.png
+- Assets/SuperWildGalaxy/Materials/Mat_WhiteEmissive.mat
+- Assets/SuperWildGalaxy/Materials/Mat_PlatformGreen.mat
+- Assets/SuperWildGalaxy/Materials/Mat_WarpPod.mat
+- Assets/SuperWildGalaxy/Models/Objects/astrocountdownplate.dae
+- Assets/SuperWildGalaxy/Models/Objects/mapbSS02.png
+- Assets/SuperWildGalaxy/Materials/Mat_mado.mat
+- Assets/SuperWildGalaxy/Materials/yellowfortile_64.png
+- Assets/SuperWildGalaxy/Prefabs/RotatingPlatformA.prefab
+- Assets/SuperWildGalaxy/Materials/TwoSidedShader.shader
+- Assets/SuperWildGalaxy/Materials/Mat_FlowerPink.mat
+- Assets/SuperWildGalaxy/Materials/cloth04_128SM.png
+- Assets/SuperWildGalaxy/Models/Objects/warpSS02.png
+- Assets/SuperWildGalaxy/Materials/boyakeindirect.png
+- Assets/SuperWildGalaxy/Materials/Mat_FlowerPurple.mat
+- Assets/SuperWildGalaxy/Materials/redcarpet00SM.png
+- Assets/SuperWildGalaxy/Prefabs/ObservatorySimpleCollision.fbx
+- Assets/SuperWildGalaxy/Materials/BaseCenterTopYellow.mat
+- Assets/SuperWildGalaxy/Models/Objects/mapbSS03.png
+- Assets/SuperWildGalaxy/Materials/Mat_Starpole.mat
+- Assets/SuperWildGalaxy/Materials/Mat_PowerlineGreen.mat
+- Assets/SuperWildGalaxy/Materials/Mat_OverlayYellow.mat
+- Assets/SuperWildGalaxy/Models/Objects/astrorotatestepa.dae
+- Assets/SuperWildGalaxy/Models/Observatory/astrodomeentrancemachine.dae
+- Assets/SuperWildGalaxy/Materials/golddoorwaku_128MM.png
+- Assets/SuperWildGalaxy/Models/Objects/goldami01.png
+- Assets/SuperWildGalaxy/Materials/Mat_PowerlineRed.mat
+- Assets/SuperWildGalaxy/Materials/closet.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrodomeentrancekitchen.dae
+- Assets/SuperWildGalaxy/Materials/BellMetalBase64.png
+- Assets/SuperWildGalaxy/Materials/PlatformPink.png
+- Assets/SuperWildGalaxy/Models/Observatory/astroparking.dae
+- Assets/SuperWildGalaxy/Models/Objects/MetalEnv.png
+- Assets/SuperWildGalaxy/Models/Observatory/astrostarplatebedroom.dae
+- Assets/SuperWildGalaxy/Materials/Mat_PlatformPink.mat
+- Assets/SuperWildGalaxy/Materials/Mat_graymarufloormipMS.mat
+- Assets/SuperWildGalaxy/Materials/BumpDistort.shader
+- Assets/SuperWildGalaxy/Materials/bedroomFlame.png
+- Assets/SuperWildGalaxy/Materials/Mat_BellMetalBase64.mat
+- Assets/SuperWildGalaxy/Materials/Mat_PlatformRed.mat
+- Assets/SuperWildGalaxy/Materials/purplecarpet02.png
+- Assets/SuperWildGalaxy/Materials/Mat_PowerlineOrange.mat
+- Assets/SuperWildGalaxy/Materials/Kabe01.png
+- Assets/SuperWildGalaxy/Models/Objects/coreMM04.png
+- Assets/SuperWildGalaxy/Materials/bulefortile_64.png
+- Assets/SuperWildGalaxy/Materials/Mat_BellMetal02.mat
+- Assets/SuperWildGalaxy/Materials/PlatformRed.png
+- Assets/SuperWildGalaxy/Materials/Mat_golddoor.mat
+- Assets/SuperWildGalaxy/Materials/lozzetaConcrete.png
+Dependencies: []

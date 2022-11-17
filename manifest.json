@@ -1,9 +1,11 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "[your name]",
-  "name": "[your readable mod name]",
-  "uniqueName": "[your name].[your unique mod ID]",
-  "version": "0.0.0",
-  "owmlVersion": "2.7.2",
+  "author": "Can't Afford a Name",
+  "name": "Super Wild Galaxy",
+  "uniqueName": "CantAffordaName.SuperWildGalaxy",
+  "version": "0.1.0",
+  "owmlVersion": "2.7.4",
+  "conflicts": [ "Raicuparta.QuantumSpaceBuddies", "Vesper.AutoResume", "PacificEngine.OW_Randomizer" ],
+  "pathsToPreserve": [ "planets", "systems" ],
   "dependencies": [ "xen.NewHorizons" ]
 }

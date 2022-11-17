@@ -1,0 +1,47 @@
+<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+	<NameField>this beautiful fish</NameField>
+
+	<DialogueNode>
+		<Name>MAIN</Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>I'm a beautiful princess.</Page>
+		</Dialogue>
+		
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Yeah, sure.</Text>
+				<DialogueTarget>Yes</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text>Ew, no.</Text>
+				<DialogueTarget>No</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text>No comment.</Text>
+				<DialogueTarget>END</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>Yes</Name>
+		<Dialogue>
+			<Page>Yay.</Page>
+		</Dialogue>
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>No</Name>
+		<Dialogue>
+			<Page>Oh...</Page>
+		</Dialogue>
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>END</Name>
+		<Dialogue>
+			<Page>...</Page>
+		</Dialogue>
+	</DialogueNode>
+</DialogueTree>
